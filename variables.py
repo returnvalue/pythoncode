@@ -8,3 +8,58 @@ def if elif raise True
 del import return in
 
 """
+
+
+# bad
+@dont_at_me
+
+= 1
+#   File "c:/python/tutorialstuff/pythonvariables.py", line 1
+#     @dont_at_me = 1
+#                 ^
+# SyntaxError: invalid syntax
+
+7
+pot_club = True
+#   File "c:/python/tutorialstuff/pythonvariables.py", line 1
+#     7pot_club = True
+#      ^
+# SyntaxError: invalid syntax
+
+time
+of
+day = 'Lunch Time'
+#   File "c:/python/tutorialstuff/pythonvariables.py", line 1
+#     time of day = 'Lunch Time'
+#          ^
+# SyntaxError: invalid syntax
+
+
+# avoid typos
+name = 'Jesse'
+print('Hi ', nam)
+
+# good
+my_variable = 'is good'
+
+# types
+print(type(1))
+# <class 'int'>
+
+print(type(True))
+# <class 'bool'>
+
+print(type('Hi!'))
+# <class 'str'>
+
+print(type(3.14))
+# <class 'float'>
+
+print(type(['this', 'is', 'a', 'list']))
+# <class 'list'>
+
+print(type(('this', 'is', 'a', 'tuple')))
+# <class 'tuple'>
+
+print(type({'key': 'value'}))
+# <class 'dict'>
