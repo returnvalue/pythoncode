@@ -10,7 +10,7 @@ Adding floats works in a similar way.
 Subtraction is done with the – operator.  
 ![](https://vegibit.com/wp-content/uploads/2020/06/Python-Subtract-Numbers.png)
 
-Division is done using the / operator. Notice they you don’t want to divide by zero, lest you run into a ZeroDivisionError.  
+Division is done using the / operator. Notice that you don’t want to divide by zero, lest you run into a ZeroDivisionError.  
 ![](https://vegibit.com/wp-content/uploads/2020/06/How-To-Divide-Numbers-In-Python.png)
 
 Here are a few examples of standard division vs integer floored quotient division.  
