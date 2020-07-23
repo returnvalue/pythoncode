@@ -1,3 +1,6 @@
+In Python Number data types store numeric values. They are immutable data types, which means  
+that changing the value of a number data type results in a newly allocated object.  
+
 Python uses the + operator to add numbers.  
 ![](https://vegibit.com/wp-content/uploads/2020/06/Add-Integers-In-Python.png)
 
