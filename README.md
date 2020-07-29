@@ -10,3 +10,4 @@ Simple collection of various [Python](https://www.python.org/) Code snippets.  F
 5. [Python Dictionary Tutorial](https://vegibit.com/python-dictionary-tutorial/)
 6. [Python If Statements](https://vegibit.com/python-if-statements/)
 7. [Python While And For Loops](https://vegibit.com/python-while-and-for-loops/)
+8. [Python Recursion Examples](https://vegibit.com/python-recursion-examples/)
