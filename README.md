@@ -14,3 +14,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 7. [Python While And For Loops](https://vegibit.com/python-while-and-for-loops/)
 8. [Python Recursion Examples](https://vegibit.com/python-recursion-examples/)
 9. [Python Comprehension Tutorial](https://vegibit.com/python-comprehension-tutorial/)
+10. [Python Function Tutorial](https://vegibit.com/python-function-tutorial/)
