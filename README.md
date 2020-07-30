@@ -15,3 +15,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 8. [Python Recursion Examples](https://vegibit.com/python-recursion-examples/)
 9. [Python Comprehension Tutorial](https://vegibit.com/python-comprehension-tutorial/)
 10. [Python Function Tutorial](https://vegibit.com/python-function-tutorial/)
+11. [Commonly Built In Functions](https://vegibit.com/commonly-used-python-built-in-functions/)
