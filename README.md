@@ -17,3 +17,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 10. [Python Function Tutorial](https://vegibit.com/python-function-tutorial/)
 11. [Commonly Built In Functions](https://vegibit.com/commonly-used-python-built-in-functions/)
 12. [Python Data Structures](https://vegibit.com/python-data-structures/)
+13. [Sorting Algorithms](https://vegibit.com/bubble-sort-merge-sort-and-quick-sort-in-python/)
