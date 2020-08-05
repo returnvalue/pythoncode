@@ -20,3 +20,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 13. [Sorting Algorithms](https://vegibit.com/bubble-sort-merge-sort-and-quick-sort-in-python/)
 14. [Python Class Examples](https://vegibit.com/python-class-examples/)
 15. [How To Read And Write Files In Python](https://vegibit.com/how-to-read-and-write-files-in-python/)
+16. [Python And Excel](https://vegibit.com/how-to-use-python-with-excel/)
