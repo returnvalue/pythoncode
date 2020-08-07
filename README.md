@@ -22,3 +22,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 15. [How To Read And Write Files In Python](https://vegibit.com/how-to-read-and-write-files-in-python/)
 16. [Python And Excel](https://vegibit.com/how-to-use-python-with-excel/)
 17. [Matplotlib In Jupyter Notebook](https://vegibit.com/matplotlib-in-jupyter-notebook/)
+18. [Urllib Examples](https://vegibit.com/python-urllib/)
