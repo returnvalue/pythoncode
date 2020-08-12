@@ -28,3 +28,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 21. [XML Parsing](https://vegibit.com/python-xml-parsing/)
 22. [Beautiful Soup Web Scraping](https://vegibit.com/python-web-scraping-with-beautiful-soup/)
 23. [Selenium Python Tutorial](https://vegibit.com/selenium-python-tutorial/)
+24. [Simple Statistics](https://vegibit.com/python-statistics-tutorial/)
