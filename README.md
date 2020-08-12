@@ -25,3 +25,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 18. [Urllib Examples](https://vegibit.com/python-urllib/)
 19. [Python Requests](https://vegibit.com/python-requests-library/)
 20. [Json In Python](https://vegibit.com/python-json-tutorial/)
+21. [XML Parsing](https://vegibit.com/python-xml-parsing/)

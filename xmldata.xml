@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogposts title="Blog Posts Collection" date="A date" author="Some dude">
+
+   <post type="summary">
+      <title>Parse XML With SAX</title>
+   </post>
+
+   <post type="detail">
+      <title>Overview</title>
+      <entry>
+         Parsing XML is great
+      </entry>
+      <entry />
+      <entry>
+         Have fun with XML parsing
+      </entry>
+   </post>
+</blogposts>
