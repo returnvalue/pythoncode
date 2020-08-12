@@ -1,9 +1,9 @@
 # Python Code
 Python Code
 
-Python Code is a simple collection of various [Python](https://www.python.org/) Code snippets.  The
-repository breaks up the code into individual .py files, and the full tutorial for each collection of
- code is available below. 👍
+Python Code is a simple collection of various [Python](https://www.python.org/) Code snippets that are 
+great for getting started with Python Programming.  The repository breaks up the code into individual .py 
+files, and the full tutorial for each collection of code is available below. 👍
 
 1. [How To Name And Use Python Variables](https://vegibit.com/how-to-name-and-use-python-variables/)
 2. [How To Use Python Strings](https://vegibit.com/how-to-use-python-strings/)
@@ -27,3 +27,4 @@ repository breaks up the code into individual .py files, and the full tutorial f
 20. [Json In Python](https://vegibit.com/python-json-tutorial/)
 21. [XML Parsing](https://vegibit.com/python-xml-parsing/)
 22. [Beautiful Soup Web Scraping](https://vegibit.com/python-web-scraping-with-beautiful-soup/)
+23. [Selenium Python Tutorial](https://vegibit.com/selenium-python-tutorial/)
