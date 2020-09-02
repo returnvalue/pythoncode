@@ -30,3 +30,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 23. [Selenium Python Tutorial](https://vegibit.com/selenium-python-tutorial/)
 24. [Simple Statistics](https://vegibit.com/python-statistics-tutorial/)
 25. [Python Basics For Beginners](https://vegibit.com/python-basics-for-beginners/)
+26. [Object Oriented Python](https://vegibit.com/object-oriented-python/)
