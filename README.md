@@ -32,3 +32,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 25. [Python Basics For Beginners](https://vegibit.com/python-basics-for-beginners/)
 26. [Object Oriented Python](https://vegibit.com/object-oriented-python/)
 27. [Instance Methods And Attributes](https://vegibit.com/python-instance-methods-and-attributes/)
+28. [How To Use type() And isinstance()](https://vegibit.com/how-to-use-type-and-isinstance-in-python/)
