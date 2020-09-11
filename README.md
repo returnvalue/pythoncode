@@ -35,3 +35,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 28. [How To Use type() And isinstance()](https://vegibit.com/how-to-use-type-and-isinstance-in-python/)
 29. [Basic Python Inheritance](https://vegibit.com/basic-python-inheritance/)
 30. [Abstract Base Classes](https://vegibit.com/python-abstract-base-classes/)
+31. [Multiple Inheritance In Python](https://vegibit.com/multiple-inheritance-in-python/)
