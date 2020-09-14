@@ -36,3 +36,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 29. [Basic Python Inheritance](https://vegibit.com/basic-python-inheritance/)
 30. [Abstract Base Classes](https://vegibit.com/python-abstract-base-classes/)
 31. [Multiple Inheritance In Python](https://vegibit.com/multiple-inheritance-in-python/)
+32. [Python Interface Design Pattern](https://vegibit.com/python-interface-design-pattern/)
