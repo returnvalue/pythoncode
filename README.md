@@ -39,3 +39,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 32. [Python Interface Design Pattern](https://vegibit.com/python-interface-design-pattern/)
 33. [Composition Over Inheritance](https://vegibit.com/composition-over-inheritance/)
 34. [What Are Python Magic Methods](https://vegibit.com/what-are-python-magic-methods/)
+35. [Python Data Class](https://vegibit.com/python-data-class/)
