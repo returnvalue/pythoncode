@@ -40,3 +40,6 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 33. [Composition Over Inheritance](https://vegibit.com/composition-over-inheritance/)
 34. [What Are Python Magic Methods](https://vegibit.com/what-are-python-magic-methods/)
 35. [Python Data Class](https://vegibit.com/python-data-class/)
+36. [Python Yield Keyword](https://vegibit.com/python-yield-keyword/)
+37. [Python Datetime Module Tutorial](https://vegibit.com/python-datetime-module-tutorial/)
+38. [Python os Module Tutorial](https://vegibit.com/python-os-module-tutorial/)
