@@ -16,7 +16,7 @@ def main():
     for elem in doc.findall('post'):
         print(elem.tag)
 
-    # Count the number of posts
+    # CountDecorator the number of posts
     postCount = len(doc.findall('post'))
     entryCount = len(doc.findall('.//entry'))
 
@@ -27,7 +27,7 @@ def main():
     newPost = etree.SubElement(doc, 'post')
     newPost.text = 'This is a new post'
 
-    # Count the number of posts
+    # CountDecorator the number of posts
     postCount = len(doc.findall('post'))
     entryCount = len(doc.findall('.//entry'))
 
