@@ -44,3 +44,4 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 37. [Python Datetime Module Tutorial](https://vegibit.com/python-datetime-module-tutorial/)
 38. [Python os Module Tutorial](https://vegibit.com/python-os-module-tutorial/)
 39. [What Is A Python Decorator](https://vegibit.com/what-is-a-python-decorator/)
+40. [What Is if \_\_name\_\_ == "\_\_main\_\_": main()](https://vegibit.com/python-if-__name__-__main__-main/)
