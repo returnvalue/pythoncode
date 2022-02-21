@@ -45,3 +45,8 @@ files, and the full tutorial for each collection of code is available below. ðŸ‘
 38. [Python os Module Tutorial](https://vegibit.com/python-os-module-tutorial/)
 39. [What Is A Python Decorator](https://vegibit.com/what-is-a-python-decorator/)
 40. [What Is if \_\_name\_\_ == "\_\_main\_\_": main()](https://vegibit.com/python-if-__name__-__main__-main/)
+41. [What Is A Pandas Dataframe](https://vegibit.com/what-is-a-pandas-dataframe/)
+42. [Python Stack Data Structure](https://vegibit.com/python-stack-data-structure/)
+43. [Python Queue Example](https://vegibit.com/python-queue-example/)
+44. [Python Deque Vs Queue](https://vegibit.com/python-deque-vs-queue/)
+45. [Python Binary Search Tree](https://vegibit.com/python-binary-search-tree/)
