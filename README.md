@@ -5,48 +5,48 @@ Python Code is a simple collection of various [Python](https://www.python.org/) 
 great for getting started with Python Programming.  The repository breaks up the code into individual .py 
 files, and the full tutorial for each collection of code is available below. 👍
 
-1. [How To Name And Use Python Variables](https://vegibit.com/how-to-name-and-use-python-variables/)
-2. [How To Use Python Strings](https://vegibit.com/how-to-use-python-strings/)
-3. [How To Use Numbers In Python](https://vegibit.com/how-to-use-numbers-in-python/)
-4. [How To Use Python Lists](https://vegibit.com/how-to-use-python-lists/)
-5. [Python Dictionary Tutorial](https://vegibit.com/python-dictionary-tutorial/)
-6. [Python If Statements](https://vegibit.com/python-if-statements/)
-7. [Python While And For Loops](https://vegibit.com/python-while-and-for-loops/)
-8. [Python Recursion Examples](https://vegibit.com/python-recursion-examples/)
-9. [Python Comprehension Tutorial](https://vegibit.com/python-comprehension-tutorial/)
-10. [Python Function Tutorial](https://vegibit.com/python-function-tutorial/)
-11. [Commonly Built In Functions](https://vegibit.com/commonly-used-python-built-in-functions/)
-12. [Python Data Structures](https://vegibit.com/python-data-structures/)
-13. [Sorting Algorithms](https://vegibit.com/bubble-sort-merge-sort-and-quick-sort-in-python/)
-14. [Python Class Examples](https://vegibit.com/python-class-examples/)
-15. [How To Read And Write Files In Python](https://vegibit.com/how-to-read-and-write-files-in-python/)
-16. [Python And Excel](https://vegibit.com/how-to-use-python-with-excel/)
-17. [Matplotlib In Jupyter Notebook](https://vegibit.com/matplotlib-in-jupyter-notebook/)
-18. [Urllib Examples](https://vegibit.com/python-urllib/)
-19. [Python Requests](https://vegibit.com/python-requests-library/)
-20. [Json In Python](https://vegibit.com/python-json-tutorial/)
-21. [XML Parsing](https://vegibit.com/python-xml-parsing/)
-22. [Beautiful Soup Web Scraping](https://vegibit.com/python-web-scraping-with-beautiful-soup/)
-23. [Selenium Python Tutorial](https://vegibit.com/selenium-python-tutorial/)
-24. [Simple Statistics](https://vegibit.com/python-statistics-tutorial/)
-25. [Python Basics For Beginners](https://vegibit.com/python-basics-for-beginners/)
-26. [Object Oriented Python](https://vegibit.com/object-oriented-python/)
-27. [Instance Methods And Attributes](https://vegibit.com/python-instance-methods-and-attributes/)
-28. [How To Use type() And isinstance()](https://vegibit.com/how-to-use-type-and-isinstance-in-python/)
-29. [Basic Python Inheritance](https://vegibit.com/basic-python-inheritance/)
-30. [Abstract Base Classes](https://vegibit.com/python-abstract-base-classes/)
-31. [Multiple Inheritance In Python](https://vegibit.com/multiple-inheritance-in-python/)
-32. [Python Interface Design Pattern](https://vegibit.com/python-interface-design-pattern/)
-33. [Composition Over Inheritance](https://vegibit.com/composition-over-inheritance/)
-34. [What Are Python Magic Methods](https://vegibit.com/what-are-python-magic-methods/)
-35. [Python Data Class](https://vegibit.com/python-data-class/)
-36. [Python Yield Keyword](https://vegibit.com/python-yield-keyword/)
-37. [Python Datetime Module Tutorial](https://vegibit.com/python-datetime-module-tutorial/)
-38. [Python os Module Tutorial](https://vegibit.com/python-os-module-tutorial/)
-39. [What Is A Python Decorator](https://vegibit.com/what-is-a-python-decorator/)
-40. [What Is if \_\_name\_\_ == "\_\_main\_\_": main()](https://vegibit.com/python-if-__name__-__main__-main/)
-41. [What Is A Pandas Dataframe](https://vegibit.com/what-is-a-pandas-dataframe/)
-42. [Python Stack Data Structure](https://vegibit.com/python-stack-data-structure/)
-43. [Python Queue Example](https://vegibit.com/python-queue-example/)
-44. [Python Deque Vs Queue](https://vegibit.com/python-deque-vs-queue/)
-45. [Python Binary Search Tree](https://vegibit.com/python-binary-search-tree/)
+1. How To Name And Use Python Variables
+2. How To Use Python Strings
+3. How To Use Numbers In Python
+4. How To Use Python Lists
+5. Python Dictionary Tutorial
+6. Python If Statements
+7. Python While And For Loops
+8. Python Recursion Examples
+9. Python Comprehension Tutorial
+10. Python Function Tutorial
+11. Commonly Built In Functions
+12. Python Data Structures
+13. Sorting Algorithms
+14. Python Class Examples
+15. How To Read And Write Files In Python
+16. Python And Excel
+17. Matplotlib In Jupyter Notebook
+18. Urllib Examples
+19. Python Requests
+20. Json In Python
+21. XML Parsing
+22. Beautiful Soup Web Scraping
+23. Selenium Python Tutorial
+24. Simple Statistics
+25. Python Basics For Beginners
+26. Object Oriented Python
+27. Instance Methods And Attributes
+28. How To Use type() And isinstance()
+29. Basic Python Inheritance
+30. Abstract Base Classes
+31. Multiple Inheritance In Python
+32. Python Interface Design Pattern
+33. Composition Over Inheritance
+34. What Are Python Magic Methods
+35. Python Data Class
+36. Python Yield Keyword
+37. Python Datetime Module Tutorial
+38. Python os Module Tutorial
+39. What Is A Python Decorator
+40. What Is if \_\_name\_\_ == "\_\_main\_\_": main()
+41. What Is A Pandas Dataframe
+42. Python Stack Data Structure
+43. Python Queue Example
+44. Python Deque Vs Queue
+45. Python Binary Search Tree
