@@ -2,49 +2,34 @@ In Python Number data types store numeric values. They are immutable data types,
 that changing the value of a number data type results in a newly allocated object.  
 
 Python uses the + operator to add numbers.  
-![](https://vegibit.com/wp-content/uploads/2020/06/Add-Integers-In-Python.png)
 
 Adding floats works in a similar way.  
-![](https://vegibit.com/wp-content/uploads/2020/06/How-To-Add-Floating-Point-Numbers-In-Python.png)
 
 Subtraction is done with the – operator.  
-![](https://vegibit.com/wp-content/uploads/2020/06/Python-Subtract-Numbers.png)
 
 Division is done using the / operator. Notice that you don’t want to divide by zero, lest you run into a ZeroDivisionError.  
-![](https://vegibit.com/wp-content/uploads/2020/06/How-To-Divide-Numbers-In-Python.png)
 
 Here are a few examples of standard division vs integer floored quotient division.  
-![](https://vegibit.com/wp-content/uploads/2020/06/Python-Integer-Floored-Quotient-Division.png)
 
 The * operator handles multiplication for you.  
-![](https://vegibit.com/wp-content/uploads/2020/06/Multiply-Python-Numbers.png)
 
 The ** operator in Python allows you to calculate exponents like so.  
-![](https://vegibit.com/wp-content/uploads/2020/06/How-To-Apply-An-Exponent-In-Python.png)
 
 Find The Remainder  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-modulus-operator-example.png)
 
 You can use parentheses just like algebra class to override the standard precedence if needed.  
-![](https://vegibit.com/wp-content/uploads/2020/06/Python-math-order-of-operations-precedence.png)
 
 To round a number in Python you can use the inbuilt round() function.  
-![](https://vegibit.com/wp-content/uploads/2020/06/how-to-round-python-numbers.png)
 
 round to 2 decimal places  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-round-2-decimal-places.png)
 
 format float as percentage  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-format-float-as-percentage.png)
 
 left padding with zeros  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-left-padding-with-zeros.png)
 
 right padding with zeros  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-right-padding-with-zeros.png)
 
 adding commas to large numbers  
-![](https://vegibit.com/wp-content/uploads/2020/06/python-adding-commas-to-large-numbers.png)
 
 * * *
 Python Math Operators From Highest To Lowest Precedence

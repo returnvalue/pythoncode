@@ -195,10 +195,10 @@ from requests.auth import HTTPBasicAuth
 
 # Access a URL that requires authentication - the format of this
 # URL is that you provide the username/password to auth against
-url = 'https://httpbin.org/basic-auth/vegibit/secret'
+url = 'https://httpbin.org/basic-auth/exampleuser/secret'
 
 # Create a credentials object using HTTPBasicAuth
-credentials = HTTPBasicAuth('vegibit', 'secret')
+credentials = HTTPBasicAuth('exampleuser', 'secret')
 
 # Issue the request with the authentication credentials
 resp = requests.get(url, auth=credentials)
@@ -213,5 +213,5 @@ printResponse(resp)
 # Returned data: +----------------------+
 # {
 #   "authenticated": true,
-#   "user": "vegibit"
+#   "user": "exampleuser"
 # }
