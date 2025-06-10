@@ -1,6 +1,5 @@
-# Variables are containers for storing data values. Unlike other programming languages
-# Python has no command for declaring a variable. A variable is created the moment you 
-# first assign a value to it.
+# Variables store data values.
+# Python creates a variable when you first assign to it.
 
 """
 These keywords are *not* available for use as variable names
@@ -14,25 +13,20 @@ del import return in
 """
 
 
-# bad
-@dont_at_me
-
-= 1
+# Bad examples of variable names that would raise syntax errors
+# @dont_at_me = 1
 #   File "c:/python/tutorialstuff/pythonvariables.py", line 1
 #     @dont_at_me = 1
 #                 ^
 # SyntaxError: invalid syntax
 
-7
-pot_club = True
+# 7pot_club = True
 #   File "c:/python/tutorialstuff/pythonvariables.py", line 1
 #     7pot_club = True
 #      ^
 # SyntaxError: invalid syntax
 
-time
-of
-day = 'Lunch Time'
+# time of day = 'Lunch Time'
 #   File "c:/python/tutorialstuff/pythonvariables.py", line 1
 #     time of day = 'Lunch Time'
 #          ^
@@ -41,7 +35,7 @@ day = 'Lunch Time'
 
 # avoid typos
 name = 'Jesse'
-print('Hi ', nam)
+print('Hi', name)
 
 # good
 my_variable = 'is good'

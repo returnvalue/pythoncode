@@ -1,4 +1,7 @@
 # Simple Class With Inheritance
+from abc import ABC, abstractmethod
+
+
 class Vehicle:
     def __init__(self):
         super().__init__()
@@ -17,6 +20,8 @@ class Truck(Vehicle):
         super().__init__()
 
 
+# Adding Abstract Base Class
+
 vehicle1 = Vehicle()
 
 car1 = Car()
@@ -24,9 +29,6 @@ car1.go_forward()
 
 truck1 = Truck()
 truck1.go_forward()
-
-# Adding Abstract Base Class
-from abc import ABC, abstractmethod
 
 
 class Vehicle(ABC):

@@ -1,6 +1,6 @@
-# Python is an object oriented programming language. Almost everything in Python is an
-# object, with its properties and methods. A Class is like an object constructor, or a
-# "blueprint" for creating objects.
+# Python is an object-oriented programming language.
+# Almost everything in Python is an object with properties and methods.
+# A class is like an object constructor or blueprint for creating objects.
 
 # A Vehicle class
 class Vehicle:
@@ -44,6 +44,7 @@ an_suv = Vehicle('Ford', 'Explorer', 'SUV')
 # Modifying an attribute directly
 cool_new_vehicle = Vehicle('Honda', 'Ridgeline', 'Truck')
 cool_new_vehicle.fuel_level = 7
+
 
 # Define a method to update an attribute’s value
 class Vehicle:
@@ -107,18 +108,18 @@ class ElectricVehicle(Vehicle):
 
 
 # Adding new methods to a child class
-class ElectricVehicle(Vehicle):
-    def __init__(self, brand, model, type):
-        super().__init__(brand, model, type)
-        self.battery_size = 85
-        self.charge_level = 0
-
-    def charge(self):
-        self.charge_level = 100
-        print('The vehicle is now charged.')
-
-    def fuel_up(self):
-        print('This vehicle has no fuel tank!')
+# class ElectricVehicle(Vehicle):
+#     def __init__(self, brand, model, type):
+#         super().__init__(brand, model, type)
+#         self.battery_size = 85
+#         self.charge_level = 0
+#
+#     def charge(self):
+#         self.charge_level = 100
+#         print('The vehicle is now charged.')
+#
+#     def fuel_up(self):
+#         print('This vehicle has no fuel tank!')
 
 
 # Using child and parent methods
@@ -128,18 +129,18 @@ electric_vehicle.drive()
 
 
 # Overriding parent methods
-class ElectricVehicle(Vehicle):
-    def __init__(self, brand, model, type):
-        super().__init__(brand, model, type)
-        self.battery_size = 85
-        self.charge_level = 0
-
-    def charge(self):
-        self.charge_level = 100
-        print('The vehicle is now charged.')
-
-    def fuel_up(self):
-        print('This vehicle has no fuel tank!')
+# class ElectricVehicle(Vehicle):
+#     def __init__(self, brand, model, type):
+#         super().__init__(brand, model, type)
+#         self.battery_size = 85
+#         self.charge_level = 0
+#
+#     def charge(self):
+#         self.charge_level = 100
+#         print('The vehicle is now charged.')
+#
+#     def fuel_up(self):
+#         print('This vehicle has no fuel tank!')
 
 
 # Instances as attributes
@@ -156,15 +157,15 @@ class Battery:
 
 
 # Storing an instance of a class in an attribute
-class ElectricVehicle(Vehicle):
-    def __init__(self, brand, model, type):
-        super().__init__(brand, model, type)
-        self.battery = Battery()
-
-    def charge(self):
-        self.battery.charge_level = 100
-
-    print('The vehicle is fully charged.')
+# class ElectricVehicle(Vehicle):
+#     def __init__(self, brand, model, type):
+#         super().__init__(brand, model, type)
+#         self.battery = Battery()
+#
+#     def charge(self):
+#         self.battery.charge_level = 100
+#
+#     print('The vehicle is fully charged.')
 
 
 # Using The Instance
@@ -177,19 +178,19 @@ electric_vehicle.drive()
 # The CyberTruck is now driving.
 
 # Storing classes in a file vehicle.py
-class Vehicle:
-    """Vehicle Class data and methods"""
-
-
-class Battery:
-    """Batter Class data and methods"""
-
-
-class ElectricVehicle(Vehicle):
-    """ElectricVehicle Class data and methods"""
+# class Vehicle:
+#     """Vehicle Class data and methods"""
+#
+#
+# class Battery:
+#     """Batter Class data and methods"""
+#
+#
+# class ElectricVehicle(Vehicle):
+#     """ElectricVehicle Class data and methods"""
 
 # Importing individual classes from a module vehicle_objects.py
-from vehicle import Vehicle, ElectricVehicle
+# from vehicle import Vehicle, ElectricVehicle
 a_mini = Vehicle('Cooper', 'Mini', 'Car')
 a_mini.fuel_up()
 a_mini.drive()
@@ -198,7 +199,7 @@ a_tesla.charge()
 a_tesla.drive()
 
 # Importing an entire module
-import vehicle
+# import vehicle
 a_mini = Vehicle('Cooper', 'Mini', 'Car')
 a_mini.fuel_up()
 a_mini.drive()
@@ -209,19 +210,19 @@ a_tesla.drive()
 
 # Storing objects in a list
 # A collection of rental vehicles
-from vehicle import Vehicle, ElectricVehicle
+# from vehicle import Vehicle, ElectricVehicle
 
 gas_fleet = []
 electric_fleet = []
 
 for _ in range(100):
-    vehicle = Vehicle('Honda', 'Civic', 'Car')
-    gas_fleet.append(vehicle)
+    a_vehicle = Vehicle('Honda', 'Civic', 'Car')
+    gas_fleet.append(a_vehicle)
 for _ in range(50):
     evehicle = ElectricVehicle('Nissan', 'Leaf', 'Car')
     electric_fleet.append(evehicle)
-for vehicle in gas_fleet:
-    vehicle.fuel_up()
+for a_vehicle in gas_fleet:
+    a_vehicle.fuel_up()
 for evehicle in electric_fleet:
     evehicle.charge()
 print(f'Gas vehicles: {len(gas_fleet)}')
